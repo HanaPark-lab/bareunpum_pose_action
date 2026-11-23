@@ -1,0 +1,15 @@
+[project]
+name = "bareunpum-pose-action"
+version = "0.1.0"
+description = "바른품 — 아기 돌봄 동작 OK/주의/NG 코칭 (교과10 자율 프로젝트)"
+requires-python = ">=3.10"
+dependencies = [
+    "ultralytics>=8.3",
+    "opencv-python>=4.9",
+    "numpy",
+    "pandas",
+    "scikit-learn",
+    "joblib",
+    "matplotlib",
+    "lap",
+]

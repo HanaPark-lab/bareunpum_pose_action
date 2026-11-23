@@ -1,0 +1,21 @@
+.env
+.venv/
+__pycache__/
+*.pyc
+# 모델·가중치 (용량 큼)
+*.joblib
+*.pt
+models/*.json
+# 데이터·영상 (개인 촬영물 → 업로드 금지)
+*.mp4
+*.avi
+*.mov
+*.fbx
+data/raw/
+data/external/
+data/keypoints/
+data/vicon2d/
+data/windows/
+reports/**/*.mp4
+.DS_Store
+Thumbs.db
