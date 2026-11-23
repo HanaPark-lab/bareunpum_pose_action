@@ -1,0 +1,14 @@
+action_id,action_name,role,rf_label,service_reason
+A001,영아 CPR,PRACTICE,,
+A002,요람→마주보기,OTHER,OTHER,
+A003,흔들기,DANGER,shake,shake
+A004,안고 물건 줍기,OTHER,OTHER,
+A005,아이 곁에서 다른 곳 보기,DANGER,look_away,look_away
+A006,팔 바꿔 안기,OTHER,OTHER,
+A007,수유→트림,OTHER,OTHER,
+A008,영아 하임리히법,PRACTICE,,
+A009,한쪽 무릎 꿇고 안아 올리기,OTHER,OTHER,
+A010,쪼그려 앉아 안아 올리기,OTHER,OTHER,
+A011,목욕,OTHER,OTHER,
+A012,의자에서 떨구기,DANGER,drop,drop
+A013,걸어다니며 달래기,OTHER,OTHER,

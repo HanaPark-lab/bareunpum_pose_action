@@ -1,0 +1,14 @@
+{
+  "note": "사람 단위 split. P001=VICON, P002=회색 후드(Train, 폰 흔들기 학습용), P003=검은 자켓(Val), P004=검은 티(Test).",
+  "train": [
+    "P001",
+    "P002"
+  ],
+  "val": [
+    "P003"
+  ],
+  "test": [
+    "P004"
+  ],
+  "external_train_only": true
+}
