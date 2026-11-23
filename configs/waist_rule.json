@@ -1,0 +1,8 @@
+{
+  "rule_version": "waist-v1 (검증 전 초기값)",
+  "trunk_lean_deg": 45.0,
+  "knee_straight_deg": 150.0,
+  "violation_frame_ratio": 0.30,
+  "min_joint_conf": 0.50,
+  "note": "45°/160°/30%는 팀 가정값. 화면상 2D 몸통 기울기이며 임상 허리 굴곡각이 아님."
+}
