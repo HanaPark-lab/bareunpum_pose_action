@@ -1,0 +1,9 @@
+﻿track_id,result,reason,action_label,confidence,danger_label,danger_prob,waist_rule_applied,trunk_lean_deg,t
+1,UNKNOWN,low_quality,,,,,False,1.6844777598143899,0.0
+1,OK,,OTHER,0.84,shake,0.16,False,1.7354883398268584,1.0
+1,OK,,OTHER,0.643,shake,0.357,False,1.7354883398268584,2.0
+1,OK,,OTHER,0.823,shake,0.167,False,2.5056370869916473,3.0
+1,OK,,OTHER,0.933,shake,0.03,False,9.437328678438792,4.0
+1,OK,,OTHER,0.93,drop,0.043,False,9.437328678438792,5.0
+1,OK,,OTHER,0.843,shake,0.15,False,9.256769801021546,6.0
+1,OK,,OTHER,0.683,shake,0.317,False,4.307340429907524,7.0

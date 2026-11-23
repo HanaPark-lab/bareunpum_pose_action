@@ -1,0 +1,2 @@
+﻿model_version,threshold,n_test,argmax_acc,other_false_alarm@thr,shake_recall@thr
+bareunpum-E2,0.35,82,0.89,0.031,0.824

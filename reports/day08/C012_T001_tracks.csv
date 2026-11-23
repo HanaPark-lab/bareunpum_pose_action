@@ -1,0 +1,7 @@
+﻿track_id,is_main,frames,frame_ratio,cum_box_area,result,reason,window_count,ng_window_count
+1,True,820,1.0,125385676,NG,drop,28,2
+3,False,820,1.0,30719736,OK,,28,0
+2,False,820,1.0,26929042,OK,,28,0
+9,False,596,0.727,16688210,OK,,22,0
+4,False,61,0.074,1238748,OK,,5,0
+8,False,39,0.048,931048,OK,,3,0

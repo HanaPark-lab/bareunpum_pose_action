@@ -1,0 +1,4 @@
+﻿exp,eval,n_eval,macro_f1,OTHER_recall,shake_recall,other_false_alarm@thr,shake_recall@thr
+E0,Val,38,0.262,0.0,1.0,0.963,1.0
+E1,Val,38,0.415,1.0,0.0,0.0,0.0
+E2,Val,38,0.505,1.0,0.091,0.0,0.818
