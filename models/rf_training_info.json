@@ -1,0 +1,34 @@
+{
+  "model_version": "bareunpum-E2",
+  "experiment": "E2",
+  "classes": [
+    "OTHER",
+    "drop",
+    "look_away",
+    "shake"
+  ],
+  "feature_count": 1140,
+  "sequence_steps": 30,
+  "frame_feature_count": 38,
+  "window_seconds": 2.0,
+  "window_stride_seconds": 0.5,
+  "min_valid_frames": 10,
+  "danger_threshold": 0.35,
+  "repeat_windows": 2,
+  "train_windows": 4008,
+  "train_performers": [
+    "P001",
+    "P002"
+  ],
+  "train_sources": [
+    "phone",
+    "vicon",
+    "vicon2d"
+  ],
+  "n_estimators": 300,
+  "max_depth": null,
+  "class_weight": "balanced",
+  "random_state": 42,
+  "sklearn_version": "1.9.1",
+  "note": "predict_proba 는 보정된 위험 확률이 아님. 임계값·반복 횟수는 Val 기준 초기값."
+}
